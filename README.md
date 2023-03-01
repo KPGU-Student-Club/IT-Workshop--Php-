@@ -16,5 +16,5 @@
 - [11. Write a PHP program to select data and show into table format.](./Practicle10/code10.php) 
 - [12. Create a student Registration in PHP and Save and Display the student Records.](./Practicle11/code11.php) 
  
- ##If [ink is Not Open Click here](https://github.com/Nishitbaria/IT-Workshop-Solution/blob/main/README.md)
+ ##If Link is Not Open  [ Click here](https://github.com/Nishitbaria/IT-Workshop-Solution/blob/main/README.md)
  <h3  style="text-align:center;">    Made By Nishitbaria❤     </h3>
